@@ -113,17 +113,3 @@ http://[tomcat部署IP]:[tomcat监听端口]/[war包名称]/[路由映射]
 [spring boot项目发布tomcat容器（包含发布到tomcat6的方法） - weixliu - 博客园](https://www.cnblogs.com/weixliu/p/6432342.html)
 
 
-
-
-
-
-
-
-### 参考
-
-引用:
-
-[spring boot项目发布tomcat容器（包含发布到tomcat6的方法） - weixliu - 博客园](https://www.cnblogs.com/weixliu/p/6432342.html)
-
-
-
